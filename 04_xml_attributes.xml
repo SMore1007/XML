@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <product id="P001" price="499.99" stock="20">
+        <name>Smartphone X</name>
+        <brand>TechBrand</brand>
+    </product>
+    <product id="P002" price="299.99" stock="15">
+        <name>Wireless Headphones</name>
+        <brand>SoundMax</brand>
+    </product>
+</catalog>
